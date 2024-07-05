@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
-'''Module for task 1.
-'''
+'''return conc strings'''
 
 
 def concat(str1: str, str2: str) -> str:
-    '''Concatenates two strings.
-    '''
+    '''return expected'''
     return str1 + str2
